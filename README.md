@@ -1,1 +1,1 @@
-# HashiCrop-Vault
+# HashiCorp-Vault
